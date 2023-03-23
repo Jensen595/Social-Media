@@ -1,0 +1,47 @@
+ul {
+  text-align: center;
+  border: 3px solid rgb(0, 0, 0);
+  }
+
+  nav {
+    text-align: center;
+  
+  }
+
+  marker {
+    color: aliceblue;
+  }
+
+  label {
+    text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  padding-bottom: 1%;
+  padding-top: 1%;
+  }
+
+
+
+  input {
+    width: 100%;
+    box-sizing: border-box;
+   
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+ 
+  }
+
+  h2 {
+
+    text-align: center;
+
+  }
+
+  img {
+    width:100px;
+    height:100px;
+    background: url(http://goo.gl/vyAs27) no-repeat scroll 0 0;
+  }
